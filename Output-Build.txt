@@ -1,0 +1,10 @@
+﻿Build started...
+1>------ Build started: Project: MyGame(SplinterCell2D), Configuration: Debug Win32 ------
+1>MyGame(splinter_cell_2D).cpp
+1>C:\Users\Admin\source\repos\MyGame(SplinterCell2D)\MyGame(splinter_cell_2D).cpp(1818,13): warning C4101: 'j': unreferenced local variable
+1>C:\Users\Admin\source\repos\MyGame(SplinterCell2D)\MyGame(splinter_cell_2D).cpp(1818,10): warning C4101: 'i': unreferenced local variable
+1>C:\Users\Admin\source\repos\MyGame(SplinterCell2D)\MyGame(splinter_cell_2D).cpp(1842,13): warning C4101: 'j': unreferenced local variable
+1>C:\Users\Admin\source\repos\MyGame(SplinterCell2D)\MyGame(splinter_cell_2D).cpp(1842,10): warning C4101: 'i': unreferenced local variable
+1>MyGame(SplinterCell2D).vcxproj -> C:\Users\Admin\source\repos\MyGame(SplinterCell2D)\Debug\MyGame(SplinterCell2D).exe
+1>Done building project "MyGame(SplinterCell2D).vcxproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
